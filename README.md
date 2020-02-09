@@ -1,6 +1,6 @@
-# Another Multi Provider
+# Another React Multi Provider
 
-> React Multi Provider - Clean up deeply nested provider components!
+> Clean up your deeply nested provider components!
 
 
 ## Example
